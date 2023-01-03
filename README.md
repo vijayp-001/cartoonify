@@ -14,3 +14,9 @@ Give images as input.Take the source image, blur it using a Bilateral filter. Us
  KMeans clustering,
  Contours,
  Erosion
+
+# INPUT
+![house](https://user-images.githubusercontent.com/103741378/210311496-7ec7f7d1-d770-477f-8ffe-318d46a9cebd.jpeg)
+
+# OUTPUT
+![housecartoon](https://user-images.githubusercontent.com/103741378/210311569-fe2b5781-cd52-480f-8c65-e716ba0ef7cd.jpg)
